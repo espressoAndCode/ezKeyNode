@@ -1,5 +1,5 @@
 {
-  "name": "ezKeyNode",
+  "name": "ezkeynode",
   "version": "0.0.1",
   "description": "ezKeyNode is an npm package that allows developers to easily manage locally stored API keys. It is designed to be used with the Command Line application ezKeyVault",
   "main": "index.js",

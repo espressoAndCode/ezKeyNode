@@ -4,7 +4,7 @@ const homedir = require("os").homedir();
 // Get user home path and create full filepath
 var file = homedir + "/.keyvault.json";
 
-const ezKeyNode = {
+const ezkeynode = {
   getkey: function(name) {
     // Guard against missing file
     try {
@@ -21,4 +21,4 @@ const ezKeyNode = {
   }
 };
 
-module.exports = ezKeyNode;
+module.exports = ezkeynode;
