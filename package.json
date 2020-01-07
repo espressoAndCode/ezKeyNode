@@ -1,0 +1,25 @@
+{
+  "name": "ezKeyNode",
+  "version": "0.0.1",
+  "description": "ezKeyNode is an npm package that allows developers to easily manage locally stored API keys. It is designed to be used with the Command Line application ezKeyVault",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/espressoAndCode/ezKeyNode.git"
+  },
+  "keywords": [
+    "ezKeyNode",
+    "node",
+    "API",
+    "key"
+  ],
+  "author": "Wes bailey",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/espressoAndCode/ezKeyNode/issues"
+  },
+  "homepage": "https://github.com/espressoAndCode/ezKeyNode#readme"
+}
